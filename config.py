@@ -1,0 +1,2 @@
+BOTNAME = "@Quantum_Crypto_BOT"
+TOKEN = "1889437912:AAHqhSCB50wxG3BTjIkre1PEgB_ldpoEn7I"
